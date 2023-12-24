@@ -12,5 +12,9 @@
 </head>
 <body>
     <h2>Spring MVC learning!</h2>
+    <br>
+    <br>
+    <br>
+<a href="askDetails">Ask Details</a>
 </body>
 </html>
